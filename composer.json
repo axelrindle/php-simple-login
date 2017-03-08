@@ -1,0 +1,21 @@
+{
+    "name": "axelrindle/simple-login",
+    "description": "Simple login system with PHP and MySQL.",
+    "type": "library",
+    "require": {
+        "simplon/mysql": "^2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "axelrindle",
+            "email": "axel.rindle@gmx.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+      "psr-4": {
+        "axelrindle\\SimpleLogin\\": "lib/"
+      }
+    }
+}
