@@ -3,6 +3,7 @@
     "description": "Simple login system with PHP and MySQL.",
     "type": "library",
     "require": {
+        "php": "^7.1",
         "simplon/mysql": "^2.0"
     },
     "license": "MIT",
